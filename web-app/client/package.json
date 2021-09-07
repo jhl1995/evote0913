@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "main" : "main.js",
+  "main": "main.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build"
@@ -30,5 +30,9 @@
     "> 1%",
     "last 2 versions",
     "not ie <= 8"
-  ]
+  ],
+  "description": "run `npm run serve` from this directory to start the client app.",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
