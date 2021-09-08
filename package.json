@@ -1,0 +1,26 @@
+{
+  "name": "evote-master-1",
+  "version": "1.0.0",
+  "description": "This is for graduation work using blockchain and vue.js.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhl1995/Svote.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhl1995/Svote/issues"
+  },
+  "homepage": "https://github.com/jhl1995/Svote#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
